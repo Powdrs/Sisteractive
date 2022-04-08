@@ -1,7 +1,7 @@
 {
 	"name": "SisterActive",
 	"description": "Sister Active",
-	"repository": "https://github.com/BimoSora/SisterActive",
+	"repository": "https://github.com/Powdrs/Sisteractive",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg",
 	"keywords": ["telegram","filesaver","bot","nodejs"],
 	"env": {
